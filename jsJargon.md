@@ -16,3 +16,4 @@ Microservice: basically just a program on a server that exists for a specific pu
 
 JWT Json web token: Like a cookie, but it is signed and stored in the browser instead of in the server, so in future requests, the server tooks at the token, checks the signature, thinks "the signature is valid so this definitely came from us and wasn't tampered", and all is good
 
+GraphQL: A language for talking to APIs and only getting data that is needed 
