@@ -12,5 +12,5 @@ pipeline: a fancy way of saying that something goes through a ton of steps to ge
 
 integration: make two things work together seamlessly
 
-
+Microservice: basically just a program on a server that exists for a specific purpose, it most likely talks to other microservices so make a whole service
 
