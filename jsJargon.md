@@ -6,3 +6,11 @@ Package Manager: Think of it like an app store for JavaScript. Developers create
 
 API: the middleman, the thing that talks to both the user and the backend server
 
+API key: a little token that lets you actually talk to the middle man
+
+pipeline: a fancy way of saying that something goes through a ton of steps to get done
+
+integration: make two things work together seamlessly
+
+
+
